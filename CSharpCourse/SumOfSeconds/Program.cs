@@ -10,18 +10,11 @@ namespace SumOfSeconds
             double x1 = double.Parse(Console.ReadLine());
             double x2 = double.Parse(Console.ReadLine());
             double x3 = double.Parse(Console.ReadLine());
-            double minutes = 0;
-            double seconds = 0;
             string strSeconds;
+            double result = x1 + x2 + x3;
+            double minutes = Math.Floor(result / 60);
+            double seconds = (result % 60);
 
-            minutes = Math.Floor(x1 / 60) + Math.Floor(x2 / 60) + Math.Floor(x3 / 60);
-            seconds = (x1 % 60) + (x2 % 60) + (x3 % 60);
-
-            if (seconds >= 60)
-            {
-                minutes = minutes + Math.Floor(seconds / 60);
-                seconds = seconds % 60;
-            }
             if (seconds < 10)
             {
                 strSeconds = string.Concat('0', seconds);
