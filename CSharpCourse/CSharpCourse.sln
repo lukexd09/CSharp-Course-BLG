@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyChange", "CurrencyC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CelciusToFahrenheit", "CelciusToFahrenheit\CelciusToFahrenheit.csproj", "{04AC1E44-EE7D-47D5-8C0F-7ADD23FDC8F0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegree", "RadiansToDegree\RadiansToDegree.csproj", "{AAD49355-38DE-4249-896B-94D738FBAD3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000DaysToBirthDate", "1000DaysToBirthDate\1000DaysToBirthDate.csproj", "{EC362545-67E6-462C-A204-70144CBCB21D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{04AC1E44-EE7D-47D5-8C0F-7ADD23FDC8F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{04AC1E44-EE7D-47D5-8C0F-7ADD23FDC8F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{04AC1E44-EE7D-47D5-8C0F-7ADD23FDC8F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAD49355-38DE-4249-896B-94D738FBAD3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD49355-38DE-4249-896B-94D738FBAD3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD49355-38DE-4249-896B-94D738FBAD3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD49355-38DE-4249-896B-94D738FBAD3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC362545-67E6-462C-A204-70144CBCB21D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC362545-67E6-462C-A204-70144CBCB21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC362545-67E6-462C-A204-70144CBCB21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC362545-67E6-462C-A204-70144CBCB21D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
