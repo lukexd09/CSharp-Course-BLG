@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfSeconds", "SumOfSecond
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConverter", "UnitConverter\UnitConverter.csproj", "{71B98237-1007-46D1-958D-E206727021FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitConverterWindow", "UnitConverterWindow\UnitConverterWindow.csproj", "{12703B5A-FDD9-4517-AD06-9FB49262176E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{71B98237-1007-46D1-958D-E206727021FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71B98237-1007-46D1-958D-E206727021FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71B98237-1007-46D1-958D-E206727021FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12703B5A-FDD9-4517-AD06-9FB49262176E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12703B5A-FDD9-4517-AD06-9FB49262176E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12703B5A-FDD9-4517-AD06-9FB49262176E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12703B5A-FDD9-4517-AD06-9FB49262176E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
