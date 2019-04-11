@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareStars", "HelloWorld\SquareStars.csproj", "{9EEAB9AA-11F8-40AE-8E8F-00BD93846301}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointRectangle", "PointRectangle\PointRectangle.csproj", "{33AFA975-55C1-4FDB-97C7-84E156B0ADC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PointRectangle", "PointRectangle\PointRectangle.csproj", "{33AFA975-55C1-4FDB-97C7-84E156B0ADC2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyChange", "CurrencyChange\CurrencyChange.csproj", "{9D04723C-95A0-419C-B910-3CE39177BD5C}"
 EndProject
@@ -14,6 +14,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RadiansToDegree", "RadiansToDegree\RadiansToDegree.csproj", "{AAD49355-38DE-4249-896B-94D738FBAD3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000DaysToBirthDate", "1000DaysToBirthDate\1000DaysToBirthDate.csproj", "{EC362545-67E6-462C-A204-70144CBCB21D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingLab", "TrainingLab\TrainingLab.csproj", "{B7FB91C7-816F-4FAF-8EFF-EF8D4C97E25D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VegetableMarket", "VegetableMarket\VegetableMarket.csproj", "{62D07619-59B5-47FB-90A2-6357FD1714BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeTiles", "ChangeTiles\ChangeTiles.csproj", "{25761F3B-D265-4F4A-B4C8-0774B8B6CFDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +51,18 @@ Global
 		{EC362545-67E6-462C-A204-70144CBCB21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EC362545-67E6-462C-A204-70144CBCB21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EC362545-67E6-462C-A204-70144CBCB21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7FB91C7-816F-4FAF-8EFF-EF8D4C97E25D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7FB91C7-816F-4FAF-8EFF-EF8D4C97E25D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7FB91C7-816F-4FAF-8EFF-EF8D4C97E25D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7FB91C7-816F-4FAF-8EFF-EF8D4C97E25D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D07619-59B5-47FB-90A2-6357FD1714BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D07619-59B5-47FB-90A2-6357FD1714BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D07619-59B5-47FB-90A2-6357FD1714BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D07619-59B5-47FB-90A2-6357FD1714BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25761F3B-D265-4F4A-B4C8-0774B8B6CFDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25761F3B-D265-4F4A-B4C8-0774B8B6CFDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25761F3B-D265-4F4A-B4C8-0774B8B6CFDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25761F3B-D265-4F4A-B4C8-0774B8B6CFDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
